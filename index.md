@@ -2,9 +2,10 @@
 
 ### Download Links
 
-[Versions](https://github.com/AtmelGenious/Red-Launcher-BedRock-Edition/tree/Versions)
+[Versions](/tree/Versions)
 
-### RedLauncher v1.1.0 Beta is Realised!
+### RedLauncher v1.1.0 Beta is Released!
 
 -Bug Fixes
+
 -New Design

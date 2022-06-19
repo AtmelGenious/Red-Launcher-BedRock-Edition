@@ -23,6 +23,7 @@ For installing minecraft from Red Launcher, you need to turn on developer mode!
 
 ### RedLauncher v1.1.0 Beta is Released!
 18.06.2022
+
 -Bug Fixes
 
 -New Design

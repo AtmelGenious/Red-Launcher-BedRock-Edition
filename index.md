@@ -3,6 +3,7 @@
 ### Download Links
 
 [Versions](https://github.com/AtmelGenious/Red-Launcher-BedRock-Edition)
+
 #IMPOTANT!
 
 For installing minecraft from Red Launcher, you need to turn on developer mode!

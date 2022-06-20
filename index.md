@@ -8,6 +8,18 @@
 
 For installing minecraft from Red Launcher, you need to turn on developer mode!
 
+
+### RedLauncher v1.2.2 Beta is Released!
+20.06.2022 21:45
+
+-Fixed bugs
+
+-Added autochange language on first start
+
+-Added autorestart on crash in loading screen
+
+-Fixed bug with stuck on 42% load
+
 ### RedLauncher v1.2.0 Beta is Released!
 19.06.2022 23:15
 
